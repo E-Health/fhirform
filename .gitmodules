@@ -1,0 +1,12 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/dermatologist/fhirform-server
+[submodule "viewer"]
+	path = viewer
+	url = https://github.com/dermatologist/fhir-questionnaire-render-react
+[submodule "editor"]
+	path = editor
+	url = https://github.com/E-Health/fred
+[submodule "fhirformjs"]
+	path = fhirformjs
+	url = https://github.com/dermatologist/fhirformjs
