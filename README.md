@@ -15,6 +15,8 @@ Structured health data capture is pivotal to the success of any health informati
 
 Work in progress
 
+* [Experimental aplication that integrates fhirform with OMOP CDM](https://github.com/dermatologist/fhirform-ohdsi)
+
 ## Contributors
 
 * [Bell Eapen](https://nuchange.ca) | McMaster U
