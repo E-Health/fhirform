@@ -1,6 +1,6 @@
-# FHIRForm Framework - Work in progress
+# FHIRForm Framework
 
-[![QRMine](https://raw.github.com/E-Health/fhirform/master/docs/FHIRForm.jpg)](http://canehealth.com)
+[![FHIRForm](https://raw.github.com/E-Health/fhirform/master/docs/FHIRForm.jpg)](http://canehealth.com)
 
 ## About
 
@@ -10,12 +10,10 @@ Structured health data capture is pivotal to the success of any health informati
 * [Editor](https://github.com/E-Health/fred). A FHIR resource editor served by the same server instance. The Editor is a modification of FRED, a project of SMART Health IT, a joint effort of the not-for-profit institutions, Boston Children’s Hospital Computational Health Informatics Program and the Harvard Medical School Department for Biomedical Informatics.
 * [Viewer](https://github.com/dermatologist/fhir-questionnaire-render-react) A rendering agent for FHIR Questionnaire using React and Redux that can submit a QuestionnaireResponse.
 * [fhirformjs](https://github.com/dermatologist/fhirformjs) An *npm* module for converting Questionnaire items to *JSON schema* for rendering.
+* [fhirform-ohdsi](https://github.com/dermatologist/fhirform-ohdsi) Experimental aplication that integrates fhirform with [OMOP CDM](https://ohdsi.org/)
 
-## How to Use
-
-Work in progress
-
-* [Experimental aplication that integrates fhirform with OMOP CDM](https://github.com/dermatologist/fhirform-ohdsi)
+## How to cite
+* To be presented in [ITCH-2019](https://www.uvic.ca/hsd/itch/). 
 
 ## Contributors
 
