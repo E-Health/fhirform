@@ -46,6 +46,9 @@ STEP 4: Run the server
 ## How to cite
 * To be presented in [ITCH-2019](https://www.uvic.ca/hsd/itch/). 
 
+## Demo
+[![FHIRForm Demo](https://raw.github.com/E-Health/fhirform/master/docs/fhirform.gif)](http://canehealth.com)
+
 ## Contributors
 
 * [Bell Eapen](https://nuchange.ca) | McMaster U
