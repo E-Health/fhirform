@@ -52,3 +52,4 @@ STEP 4: Run the server
 ## Contributors
 
 * [Bell Eapen](https://nuchange.ca) | McMaster U
+* See also: [:eyes: Drishti | An mHealth sense-plan-act framework!](https://github.com/E-Health/drishti)
