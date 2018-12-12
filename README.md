@@ -44,7 +44,7 @@ STEP 4: Run the server
 ```
 
 ## How to cite
-* To be presented in [ITCH-2019](https://www.uvic.ca/hsd/itch/). 
+* To be presented [@ITCH-2019](https://www.uvic.ca/hsd/itch/) (UVic). 
 
 ## Demo
 [![FHIRForm Demo](https://raw.github.com/E-Health/fhirform/master/docs/fhirform.gif)](http://canehealth.com)
