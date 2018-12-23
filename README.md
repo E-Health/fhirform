@@ -12,7 +12,15 @@ Structured health data capture is pivotal to the success of any health informati
 * [fhirformjs](https://github.com/dermatologist/fhirformjs) An *npm* module for converting Questionnaire items to *JSON schema* for rendering.
 * [fhirform-ohdsi](https://github.com/dermatologist/fhirform-ohdsi) Experimental aplication that integrates fhirform with [OMOP CDM](https://ohdsi.org/)
 
-## How to use:
+## Docker
+
+Pre-build docker container is available for testing and can be deployed using the following command. Access it at http://localhost/fhir
+(Docker container is for testing only.)
+```
+docker run -d --name fhirform -p 80:8080 beapen/fhirform:240818
+```
+
+## How to build:
 
 STEP 1: Clone this meta-repository
 
