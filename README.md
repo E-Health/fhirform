@@ -52,7 +52,20 @@ STEP 4: Run the server
 ```
 
 ## How to cite
-* To be presented [@ITCH-2019](https://www.uvic.ca/hsd/itch/) (UVic). 
+Eapen BR, Costa A, Archer N, Sartipi K. FHIRForm: An Open-Source Framework for
+the Management of Electronic Forms in Healthcare. Stud Health Technol Inform.
+2019;257:80-85. PubMed PMID: 30741177.
+
+```
+@article{eapen2019fhirform,
+  title={FHIRForm: An Open-Source Framework for the Management of Electronic Forms in Healthcare.},
+  author={Eapen, BR and Costa, A and Archer, N and Sartipi, K},
+  journal={Studies in health technology and informatics},
+  volume={257},
+  pages={80--85},
+  year={2019}
+}
+```
 
 ## Demo
 [![FHIRForm Demo](https://raw.github.com/E-Health/fhirform/master/docs/fhirform.gif)](http://canehealth.com)
