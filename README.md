@@ -57,7 +57,6 @@ STEP 4: Run the server
 ## Demo
 [![FHIRForm Demo](https://raw.github.com/E-Health/fhirform/master/docs/fhirform.gif)](http://canehealth.com)
 
-[![FHIRForm](https://raw.github.com/E-Health/fhirform/master/docs/fhirform.png)](http://canehealth.com)
 
 ## Contributors
 
