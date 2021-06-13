@@ -10,3 +10,6 @@
 [submodule "fhirformjs"]
 	path = fhirformjs
 	url = https://github.com/dermatologist/fhirformjs
+[submodule "fhirql"]
+	path = fhirql
+	url = https://github.com/dermatologist/fhirform-server
