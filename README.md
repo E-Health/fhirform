@@ -31,25 +31,30 @@ git submodule update --init --recursive
 
 STEP 2: Build and install Editor:
 ```
-cd fhirform\editor
+cd editor
 mvn clean install
 
 ```
-STEP 3: Build and install Viewer (optional)
+STEP 3: Build and install Viewer  (IGNORE THIS STEP)
+**The viewer is deprecated**
+The [new viewer example is here.](https://github.com/dermatologist/fhir-questionnaire-render-react)
 
 ```
-cd viewer
+cd ../viewer
 npm install
 npm build
 ```
-* from the static folder inside build folder, 
-copy the file starting with main-xxxx.js to the js folder under server/resources as main.js
+* from the build/static folder (in viewer),
+copy the file starting with main-xxxx.js to the server resources as main.js
+Full path: fhirql/src/main/resources/js/main.js
 
-STEP 4: Run the server
-* from the main project folder
+STEP 4: Run the server  (*Server folder has been renamed to fhirql*)
+* from the fhirql folder (cd ../fhirql)
 ```
-./run.sh
+mvn spring-boot:run -Dmaven.test.skip=true
 ```
+
+STEP 5: Access the application at http://localhost:8080/fhir/
 
 ## How to cite
 Eapen BR, Costa A, Archer N, Sartipi K. FHIRForm: An Open-Source Framework for
