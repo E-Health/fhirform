@@ -15,7 +15,7 @@ authors:
   orcid: "https://orcid.org/0000-0002-3588-5991"
 title: "The FHIRForm framework for managing healthcare eForms"
 version: 1.0.0
-date-released: 2021-06-08
+date-released: 2018-06-08
 url: "https://github.com/E-Health/fhirform"
 preferred-citation:
   type: article
